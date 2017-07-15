@@ -1,0 +1,9 @@
+{
+  "name": "cidemo-loc",
+  "version": "0.0.0",
+  "description": "CIDemoLoc",
+  "main": "server.js",
+  "author": {
+    "name": "lachlan"
+  }
+}
