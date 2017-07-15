@@ -1,9 +1,25 @@
 {
   "name": "cidemo-loc",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "CIDemoLoc",
   "main": "server.js",
-  "author": {
-    "name": "lachlan"
-  }
+  "author": "lachlan",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lachlanwm/CIDemoLoc.git"
+  },
+  "keywords": [
+    "cidc",
+    "local"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lachlanwm/CIDemoLoc/issues"
+  },
+  "homepage": "https://github.com/lachlanwm/CIDemoLoc#readme"
 }
